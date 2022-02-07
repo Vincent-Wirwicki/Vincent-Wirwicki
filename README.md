@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vincent-Wirwicki
 - 👀 I’m interested in front end and ui animation
-- 🌱 I’m currently learning react 
+- 🌱 I’m currently learning react / next / three
 - 💞️ I’m looking to collaborate on anything related to javascript
 - 📫 How to reach me ...
 
