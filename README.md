@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vincent-Wirwicki
 - 👀 I’m interested in front end and ui animation
-- 🌱 I’m currently learning react / next and want to learn more about creative dev using three / gsap
+- 🌱 I’m currently learning react / next and maybe some three / gsap
 - 💞️ I’m looking to collaborate on anything related to javascript
 - 📫 How to reach, me probably [linkedin](https://www.linkedin.com/in/vincent-wirwicki-3819539b/)
 
